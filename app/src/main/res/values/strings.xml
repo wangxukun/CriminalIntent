@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">犯罪行为</string>
+    <string name="crime_title_hint">为罪行输入一个标题</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">细节</string>
+    <string name="crime_solved_label">已解决</string>
+</resources>
